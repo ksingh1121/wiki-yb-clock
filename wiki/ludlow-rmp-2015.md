@@ -73,7 +73,7 @@ The review situates optical clocks within the broader context of:
 
 This review covers the field as of ~2015. Key developments not covered:
 - Brown 2017 operational magic wavelength
-- Beloy 2014 BBR shield (concurrent but possibly post-cut-off)
+- Beloy 2014 BBR shield (published Dec 2014; likely cited in the review)
 - Bothwell 2025 dual-ensemble evaluation
 - Sub-$10^{-18}$ total systematic evaluations in Yb or Sr
 

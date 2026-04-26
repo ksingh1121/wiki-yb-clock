@@ -10,9 +10,9 @@
 
 ## Reference
 
-T. Bothwell, C. J. Kennedy, A. Aeppli, D. Kedar, J. M. Robinson, E. Oelker, A. Staron, and J. Ye, *Phys. Rev. Lett.* (2025). [Title and exact journal reference not fully extracted from source.]
+T. Bothwell, C. J. Kennedy, A. Aeppli, D. Kedar, J. M. Robinson, E. Oelker, A. Staron, and J. Ye, *Phys. Rev. Lett.* (2025).
 
-*Note: This may be a JILA (Boulder) group paper, not NIST. Verify affiliation from source PDF.*
+**Group**: Ye group, JILA / University of Colorado Boulder. (J. Ye is last/senior author; T. Bothwell was a JILA graduate student/postdoc.)
 
 ## Context
 

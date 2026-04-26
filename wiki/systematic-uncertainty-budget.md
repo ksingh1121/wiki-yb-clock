@@ -59,7 +59,7 @@ Brown 2017 focused on the nonlinear lattice light shift. Using the operational m
 
 ## Gao 2018 Budget (ECNU)
 
-Total systematic uncertainty: **$1.7\times10^{-16}**
+Total systematic uncertainty: **$1.7\times10^{-16}$**
 
 | Effect | Uncertainty |
 |--------|-------------|
@@ -71,7 +71,7 @@ Total systematic uncertainty: **$1.7\times10^{-16}**
 
 ECNU achieved $1.7\times10^{-16}$ total uncertainty with the synchronous comparison method, enabling a precise density shift measurement of $-0.570(25)$ Hz. (source: Q Gao et al. SR 2018.pdf)
 
-## Bothwell 2025 Budget (NIST, Dual-Ensemble)
+## Bothwell 2025 Budget (JILA, Dual-Ensemble)
 
 Total systematic uncertainty: **$<10^{-18}$** for lattice light shift contributions
 
@@ -94,7 +94,7 @@ Bothwell 2025 used the dual-ensemble apparatus with running-wave probing to sepa
 | 2014 | NIST | $\sim10^{-18}$ | Lattice light shift |
 | 2017 | NIST | $1.2\times10^{-18}$ | Lattice light shift (nonlinear) |
 | 2018 | ECNU | $1.7\times10^{-16}$ | BBR + density |
-| 2025 | NIST | $<10^{-18}$ | All contributions below $10^{-18}$ |
+| 2025 | JILA | $<10^{-18}$ | All contributions below $10^{-18}$ |
 
 ## Related pages
 

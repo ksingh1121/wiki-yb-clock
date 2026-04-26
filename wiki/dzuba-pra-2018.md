@@ -12,7 +12,7 @@
 
 V. A. Dzuba, V. V. Flambaum, and S. G. Porsev, "Proposal to Search for New Physics with Atoms Having a Partially Filled Inner Shell," *Phys. Rev. A* **98**, 032519 (2018).
 
-*Note*: The above reference is reconstructed from context; the exact PRA article number should be verified against the source PDF.
+*Note*: The exact PRA article number (032519) should be verified against the source PDF.
 
 ## Context
 
