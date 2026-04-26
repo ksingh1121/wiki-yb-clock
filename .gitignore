@@ -2,5 +2,9 @@ node_modules/
 public/
 .quartz-cache/
 _quartz_tmp/
+raw/
 *.pdf
 *.txt
+.obsidian/
+Welcome.md
+templates/
