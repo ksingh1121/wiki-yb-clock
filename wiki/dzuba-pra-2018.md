@@ -20,14 +20,14 @@ This paper provides theoretical support for the experimental proposals in Safron
 
 ## Key Transitions Calculated
 
-### 1S₀ → 3P₂ (at ~507 nm or ~431 nm)
+### 1S₀ → 3P₂ (at ~507 nm)
 
 The 3P₂ state lies at 19710 cm⁻¹ above the ground state. The 1S₀(J=0)→3P₂(J=2) transition is magnetic quadrupole (M2) and has different sensitivity to $\alpha$ variation than the 1S₀→3P₀ transition. Properties:
 - Lifetime: ~15 cs for even isotopes (longer for odd due to hyperfine contributions)
 - J=2: has tensor, vector, and scalar polarizability components
 - $K_\alpha$: calculated to differ from the 1S₀→3P₀ value, enabling a complementary probe
 
-### 4f¹³5d6s²(J=2) State (at ~23188 cm⁻¹ above 1S₀)
+### 4f¹³6s²5d(J=2) State (at ~23188 cm⁻¹ above 1S₀)
 
 This is the same state proposed in Safronova 2018 for the dual-clock scheme. Dzuba 2018 provides:
 - **Energy**: ~23188 cm⁻¹ (agrees with Safronova; the 3P₀→J=2 transition at ~5900 cm⁻¹ ~1695 nm)
