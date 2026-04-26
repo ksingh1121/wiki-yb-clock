@@ -16,14 +16,14 @@ The two valence electrons give rise to singlet (¹S, ¹P, ¹D, ...) and triplet 
 
 ## Key Energy Levels and Transitions
 
-| State | Config | Energy (cm⁻¹) | Lifetime |
-|-------|--------|---------------|----------|
-| 1S₀ | 4f¹⁴6s² | 0 | ∞ |
-| 3P₀ | 4f¹⁴6s6p | 17288 | 23–26 s (odd isotopes) |
-| 3P₁ | 4f¹⁴6s6p | 17992 | 500 ns |
-| 3P₂ | 4f¹⁴6s6p | 19710 | ~15 cs (even isotopes) |
-| 1P₁ | 4f¹⁴6s6p | 25068 | 5 ns |
-| 4f¹³5d6s² J=2 | 4f¹³5d6s² | 23188 | ~200 cs |
+| State         | Config    | Energy (cm⁻¹) | Lifetime               |
+| ------------- | --------- | ------------- | ---------------------- |
+| 1S₀           | 4f¹⁴6s²   | 0             | ∞                      |
+| 3P₀           | 4f¹⁴6s6p  | 17288         | 23–26 s (odd isotopes) |
+| 3P₁           | 4f¹⁴6s6p  | 17992         | 500 ns                 |
+| 3P₂           | 4f¹⁴6s6p  | 19710         | ~15 s (even isotopes)  |
+| 1P₁           | 4f¹⁴6s6p  | 25068         | 5 ns                   |
+| 4f¹³5d6s² J=2 | 4f¹³5d6s² | 23188         | ~200 s                 |
 
 (source: V Dzuba et al. PRA 2018.pdf, M S Safronova et al. PRL 2018.pdf)
 
