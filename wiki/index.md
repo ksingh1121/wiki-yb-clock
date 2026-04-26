@@ -1,4 +1,4 @@
-# Wiki Index: ¹⁷¹Yb Optical Lattice Clock
+# Wiki Index: Neutral Yb atomic Clock
 
 **Last updated**: 2026-04-26
 
